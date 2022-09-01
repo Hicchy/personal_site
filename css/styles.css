@@ -1,0 +1,32 @@
+body {
+    background-color:#ECE8D9; 
+    display: grid;
+    margin: 0px;   
+  }
+
+  .first_header {
+    display: grid;
+    margin: 0px;
+  }
+
+  hr {
+    background-color: #ECE8D9;
+    border-color: #FAF6E9;
+    border-style: none none dotted;
+    border-top-color: #ECE8D9;
+    border-width: 12px;
+    height: 1px;
+    width: 12%;
+  }
+
+  h1 {
+    color: #494949;
+    background-color: #D3E4CD;
+    text-align: center;
+  }
+
+  h3 {
+    color: #494949;
+    background-color: #D3E4CD;
+    text-align: center;
+  }
