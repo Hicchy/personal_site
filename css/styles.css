@@ -1,5 +1,12 @@
 body {
-    background-color:#ECE8D9;    
+    background-color:#ECE8D9; 
+    display: grid;
+    margin: 0px;   
+  }
+
+  .first_header {
+    display: grid;
+    margin: 0px;
   }
 
   hr {
